@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas pertemuan 6</string>
+    <array name="kehadiran">
+        <item>Hadir tepat waktu</item>
+        <item>Sakit</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+    </array>
+</resources>
